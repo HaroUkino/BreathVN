@@ -1,4 +1,4 @@
 # BreathVN
-A virtual novel game project.
+A visual novel game project.
 
 More will be added here later on.
